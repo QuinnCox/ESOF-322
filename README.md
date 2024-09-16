@@ -1,4 +1,4 @@
-Quinn Cox, Conor Miller, Avery Combe, Dylan Williams   :)
+Quinn Cox, Conor Miller, Avery Combe, Dylan Williams  
 
 
 
