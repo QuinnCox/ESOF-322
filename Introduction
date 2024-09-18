@@ -1,6 +1,35 @@
-Introduction
+--Introduction--
 
 This is our system we have designed, it is needed in the restraunt/workplace to keep tasks orginized and running smoothly. It's requirments 
-are catigorized by who will be using the system //// and where at in the process we are. 
+are catigorized by who will be using the system and where at in the process we are. 
 
+--Basic overview of Requirements/Functions--
 
+Server - The Server will be able to select menu items when taking orders and be able to customize them with a well made UI.
+- (How does this relate and work with other systems)
+
+Cooks - The Cooks will be able to see all of the important information relating to order tickets such as number of orders, what is in process of 
+being made/delayed, number of the ticket/how many tickets, and type of order (online, in house, doordash, etc.). 
+- (How does this relate and work with other systems)
+
+Checkout - In the checkout for the customer we will be able to apply coupons/discounts to the added total of the ticket and be able to process 
+all payment types.
+- (How does this relate and work with other systems)
+
+//
+Behind the Scenes - 
+  Each order has a number
+  Handle multiple orders and keep in a specific order
+  Order is split between stations 
+  Keep order numbers together
+  Adaptive Queue
+
+	Non-Functional Requirements:
+
+Database of times to cook
+Customer gets order in a timely manner
+Operating system 
+//
+
+This is the overview of what our software will be able to do for the buissness. This process will accelerate the workflow of the workers and the
+background processes of the restraunt. A system such as this is required in the busy and fast paced food service industry.
