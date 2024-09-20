@@ -16,20 +16,17 @@ Checkout - In the checkout for the customer we will be able to apply coupons/dis
 all payment types.
 - (How does this relate and work with other systems)
 
-//
-Behind the Scenes - 
-  Each order has a number
-  Handle multiple orders and keep in a specific order
-  Order is split between stations 
-  Keep order numbers together
-  Adaptive Queue
+Behind the Scenes - In the behind the scenes there is many important procceses going on. Most of it will have to do with order handling. Making sure each order
+has a unique number so that they are easy to order and keep track of. The orders should also be catigorized by the station they should be sent to.
+- (How does this relate and work with other systems)
 
-	Non-Functional Requirements:
+--Non-Functional Requirements--
+
+The non-functional requirements are 
 
 Database of times to cook
 Customer gets order in a timely manner
 Operating system 
-//
 
 This is the overview of what our software will be able to do for the buissness. This process will accelerate the workflow of the workers and the
 background processes of the restraunt. A system such as this is required in the busy and fast paced food service industry.
