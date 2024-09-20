@@ -5,6 +5,7 @@ The main objective of this document is to act as a context guide to both the sys
 <b>System Design </b><br>
 The system is designed to allow for both new and experienced users to interact with the system efficiently. This includes the overall reliablilty of the system when busy, and the users ability to navigate screens and menus quickly.
 <br><br>
+<b>Rationale</b>
 
 The section below is dedicated to outlining the version history of this document:
 - __Version 0.0.1__: Building document draft
