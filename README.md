@@ -52,6 +52,15 @@ Several indexes to the document are included. As well as a normal
 alphabetic index, there is also an index of diagrams, an index of functions,
 and so on.
 
+#Restraunt System Process
+A model showing the basic relationship between the food types the system and
+the employees
+
+#Screens Model
+A basic model showing the screens and menus of the kitchen software
+
+
+
 
 
 ````
